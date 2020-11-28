@@ -12,7 +12,7 @@ horovod
 
 ## Running
 The folder "msmarco_doc_preprocess" is responsible for preprocess data of MS Marco.
-The folder "msmarco_doc_train" is used to train the data with BISON.
+The folder "msmarco_doc_train" is used to train the data with GLOW.
 Entrance file is train_msmarco_doc.py
 
 ### Data Preprocess Example command
